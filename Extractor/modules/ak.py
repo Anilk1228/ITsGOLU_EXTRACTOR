@@ -231,7 +231,7 @@ class AKExtractor:
         batch_info = {}
         
         status_msg = await message.reply_text(
-            "🔹 <b>-:𝐈𝐓'𝐬𝐆𝐎𝐋𝐔.™®:-</b> 🔹\n\n"
+            "🔹 <b>-:Anil Bhukya.™®:-</b> 🔹\n\n"
             "Send login details in this format:\n"
             "📧 <code>email*password</code>\n\n"
             "<i>Example:</i>\n"
